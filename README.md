@@ -1,7 +1,5 @@
 # ismir_submission
 
-query based c_vrnn model for ismir 2019 submission
-
 This repository contains the source code of QOM : Query Interaction with Convolutional-Variational Recurrent Neural Network.
 
 # Description
