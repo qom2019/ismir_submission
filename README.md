@@ -1,6 +1,6 @@
 # ismir_submission
 
-This repository contains the source code of QOM : Query Interaction with Convolutional-Variational Recurrent Neural Network.
+This repository contains the source code of QOM : Query Interaction mechanism with Convolutional-recurrent Variational Autoencoder network.
 
 # Description
 
