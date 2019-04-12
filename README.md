@@ -1,4 +1,4 @@
-# ismir_submission
+# Query Object Model (QOM): Using song queries as adjustment knobs for music generation
 
 This repository contains the source code of QOM : Query Interaction mechanism with Convolutional-recurrent Variational Autoencoder network.
 
